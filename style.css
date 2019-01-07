@@ -75,10 +75,7 @@ hr {
 .O {grid-column: 3/4;}
 .P {grid-column: 1/5; grid-row: 4/5}
 
-@media only screen and (min-device-width: 375px) 
-and (max-device-width : 812px) 
-and (-webkit-device-pixel-ratio : 3)
-and (orientation : portrait){
+@media only screen and (max-width: 750px){
     
     body, html {
         padding: 20px;
