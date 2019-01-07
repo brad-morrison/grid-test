@@ -75,7 +75,7 @@ hr {
 .O {grid-column: 3/4;}
 .P {grid-column: 1/5; grid-row: 4/5}
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 300px) {
     
     body, html {
         padding: 20px;
